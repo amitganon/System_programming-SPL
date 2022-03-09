@@ -1,6 +1,5 @@
 # System_programming-SPL
 
-Four parts
 1.Memory in c++
 o	Rule of 5
 o	Factory, Singleton
