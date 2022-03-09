@@ -1,6 +1,6 @@
 ## System_programming-SPL
 
-#1.Memory in c++
+# 1.Memory in c++
 
 o	Rule of 5
 o	Factory, Singleton
@@ -14,7 +14,7 @@ make a workout plan that consists of one or more workout
 options, calculate the trainer's salary, and more.
 
 
-#2.Concurrency in Java
+# 2.Concurrency in Java
 o	Immutable object
 o	Synchronized class (fully/partially)
 o	Compare and set
@@ -26,7 +26,7 @@ o	Reader-Writer
 Implement a simple Micro-Service framework,
 and then use to implement a simulates system for managing the University compute resources.
 
-#3.Communication, client in c++, servers in Java
+# 3.Communication, client in c++, servers in Java
 o	BaseServer
 o	Full Reactor
 o	Command-Invocation server
@@ -39,7 +39,7 @@ The implementation of the server based on the Thread-Per-Client
 (TPC) and Reactor servers.
 
 
-#4.Database, python
+# 4.Database, python
 o	Application persistence pattern
 
 Implement a simulates database of Pizza Hat, a shop specialized in pizza
