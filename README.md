@@ -32,8 +32,7 @@ o	Full Reactor
 o	Command-Invocation server
 
 Implement a simple social network server and
-client. The communication between the server and the client(s)
-performed using a binary communication protocol
+client. The server and the client(s) communication is performed using a binary communication protocol.
 
 The implementation of the server based on the Thread-Per-Client
 (TPC) and Reactor servers.
